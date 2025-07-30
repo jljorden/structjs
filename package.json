@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheRealAksel/structjs.git"
+    "url": "git+https://github.com/jljorden/structjs.git"
   },
   "keywords": [
     "python",
@@ -30,16 +30,16 @@
   "author": "Aksel Jensen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TheRealAksel/structjs/issues"
+    "url": "https://github.com/jljorden/structjs/issues"
   },
-  "homepage": "https://github.com/TheRealAksel/structjs#readme",
+  "homepage": "https://github.com/jljorden/structjs#readme",
   "eslintConfig": {
     "ecmaFeatures": {
       "modules": true
     }
   },
   "devDependencies": {
-    "mocha": "^7.1.2",
+    "mocha": "^11.7.1",
     "should": "^13.2.3"
   }
 }
